@@ -1,0 +1,9 @@
+version: "3"
+services:
+  acpc_infra:
+    image: acpc
+    container_name: acpc_terraform
+    volumes:
+      - tfstate:/terraform
+volumes:
+  tfstate:

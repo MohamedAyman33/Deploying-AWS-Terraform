@@ -1,2 +1,2 @@
-# Deploying-AWS-Terraform
-terraform to start aws infrastructure for ACPC
+# acpc-aws-tf
+ACPC AWS infrastructure provisioning in Terraform
